@@ -10,8 +10,8 @@ Data dengan Python" oleh DBS_Foundation.
 
 ## Setup Environment - Anaconda
 ```
-conda create --name visdat_env python=3.8
-conda activate visdat_env
+conda create --name main-ds python=3.9
+conda activate main-ds
 ```
 
 ## Setup Environment - Google Colab
